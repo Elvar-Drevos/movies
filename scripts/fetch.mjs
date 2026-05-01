@@ -2,8 +2,8 @@ import { writeFileSync, readFileSync, existsSync } from 'node:fs';
 
 const TMDB_KEY = 'dd4127a72eb02e8b19384eafee676ea5';
 
-const DEEZER_CHART = 'https://api.deezer.com/chart/0/tracks?limit=5';
-const BOM_URL = 'https://www.boxofficemojo.com/weekend/chart/';
+const APPLE_MUSIC_NL = 'https://rss.marketingtools.apple.com/api/v2/nl/music/most-played/10/songs.json';
+const BOM_NL_INDEX = 'https://www.boxofficemojo.com/intl/netherlands/';
 const TMDB_SEARCH = (q, year) => `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_KEY}&query=${encodeURIComponent(q)}&year=${year}`;
 const TMDB_DETAIL = (id) => `https://api.themoviedb.org/3/movie/${id}?api_key=${TMDB_KEY}&language=en-US`;
 const POSTER = (path) => `https://image.tmdb.org/t/p/w500${path}`;
@@ -44,22 +44,29 @@ const findPrevRank = (list, id) => {
 };
 
 async function fetchMusic() {
-  const chart = await getJson(DEEZER_CHART);
-  return chart.data.slice(0, 5).map((t, i) => ({
+  const chart = await getJson(APPLE_MUSIC_NL);
+  return chart.feed.results.slice(0, 5).map((s, i) => ({
     rank: i + 1,
-    id: t.id,
-    title: t.title,
-    subtitle: t.artist?.name || '',
-    lastWeek: findPrevRank(prev.music?.items, t.id),
-    artwork: t.album?.cover_xl || t.album?.cover_big || '',
+    id: s.id,
+    title: s.name,
+    subtitle: s.artistName,
+    lastWeek: findPrevRank(prev.music?.items, s.id),
+    artwork: s.artworkUrl100.replace('100x100bb', '500x500bb'),
   }));
 }
 
 async function fetchMovies() {
-  // 1. Scrape Box Office Mojo weekend chart
-  const html = await getText(BOM_URL);
+  // 1. Find the most recent NL weekend chart URL
+  const indexHtml = await getText(BOM_NL_INDEX);
+  const weekKeys = [...indexHtml.matchAll(/href="\/weekend\/(\d{4}W\d{2})\/\?area=NL/g)].map(m => m[1]);
+  if (!weekKeys.length) throw new Error('BOM NL: no weekend links found');
+  const latest = weekKeys.sort().reverse()[0];
+  const weekUrl = `https://www.boxofficemojo.com/weekend/${latest}/?area=NL`;
+
+  // 2. Scrape that week's NL top chart
+  const html = await getText(weekUrl);
   const tableMatch = html.match(/<table[^>]*class="[^"]*mojo-body-table[^"]*"[^>]*>([\s\S]*?)<\/table>/);
-  if (!tableMatch) throw new Error('BOM: table not found');
+  if (!tableMatch) throw new Error('BOM NL: table not found');
 
   const rowMatches = [...tableMatch[1].matchAll(/<tr[^>]*>([\s\S]*?)<\/tr>/g)];
   const bomRows = rowMatches.map(rm => {
