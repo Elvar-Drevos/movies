@@ -1,47 +1,47 @@
 {
-  "updated": "2026-05-01T17:50:00.000Z",
+  "updated": "2026-05-01T19:40:58.000Z",
   "music": {
     "weekLabel": "May 1, 2026",
     "items": [
       {
         "rank": 1,
-        "id": "1844932150",
-        "title": "Choosin' Texas",
-        "subtitle": "Ella Langley",
+        "id": 81661472,
+        "title": "Don't Let the Music Die",
+        "subtitle": "Inna",
         "lastWeek": null,
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/500x500bb.jpg"
+        "artwork": "https://cdn-images.dzcdn.net/images/cover/c108a55ba866c0b2ea17c07aba98d4bb/1000x1000-000000-80-0-0.jpg"
       },
       {
         "rank": 2,
-        "id": "6763094377",
-        "title": "I Can't Love You Anymore",
-        "subtitle": "Ella Langley & Morgan Wallen",
+        "id": 1721337577,
+        "title": "Playback",
+        "subtitle": "Flori Mumajesi",
         "lastWeek": null,
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/35/03/26350323-d656-4817-49e6-4d658af8363a/196874332917.jpg/500x500bb.jpg"
+        "artwork": "https://cdn-images.dzcdn.net/images/cover/377bbe052b8cbb01968892b742f31ec5/1000x1000-000000-80-0-0.jpg"
       },
       {
         "rank": 3,
-        "id": "1869436845",
-        "title": "Be Her",
-        "subtitle": "Ella Langley",
+        "id": 2079969417,
+        "title": "You Give Me A Feeling",
+        "subtitle": "Vintage Culture",
         "lastWeek": null,
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/ba/64/a1ba6484-f462-1b88-ddff-d4c014d5f265/196874018361.jpg/500x500bb.jpg"
+        "artwork": "https://cdn-images.dzcdn.net/images/cover/f44bbb20586c200c6a4a1b3d33fa5690/1000x1000-000000-80-0-0.jpg"
       },
       {
         "rank": 4,
-        "id": "1872239879",
-        "title": "Doors",
-        "subtitle": "Noah Kahan",
+        "id": 2710730482,
+        "title": "Acróstico",
+        "subtitle": "Shakira",
         "lastWeek": null,
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/9c/40/9a9c40b0-0ef2-5bc5-6c25-250862e48f77/26UMGIM02802.rgb.jpg/500x500bb.jpg"
+        "artwork": "https://cdn-images.dzcdn.net/images/cover/50892c18429512463f3379ef5cbbe02b/1000x1000-000000-80-0-0.jpg"
       },
       {
         "rank": 5,
-        "id": "269573364",
-        "title": "Billie Jean",
-        "subtitle": "Michael Jackson",
+        "id": 2200785437,
+        "title": "Rock The Casbah",
+        "subtitle": "Vintage Culture",
         "lastWeek": null,
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/500x500bb.jpg"
+        "artwork": "https://cdn-images.dzcdn.net/images/cover/6ce11887bd1275853ea75f3662bf7c25/1000x1000-000000-80-0-0.jpg"
       }
     ]
   },
@@ -50,48 +50,48 @@
     "items": [
       {
         "rank": 1,
-        "id": 1318447,
-        "title": "Apex",
-        "subtitle": "Chernin Entertainment",
-        "extra": "Released Apr 24, 2026",
-        "lastWeek": null,
-        "artwork": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg"
-      },
-      {
-        "rank": 2,
-        "id": 1226863,
-        "title": "The Super Mario Galaxy Movie",
-        "subtitle": "Illumination",
-        "extra": "Released Apr 1, 2026",
-        "lastWeek": null,
-        "artwork": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
-      },
-      {
-        "rank": 3,
-        "id": 936075,
+        "id": "Michael",
         "title": "Michael",
-        "subtitle": "Lionsgate",
-        "extra": "Released Apr 24, 2026",
+        "weekendGross": "Weekend Gross: $97,206,874",
+        "studio": "Lionsgate",
         "lastWeek": null,
         "artwork": "https://image.tmdb.org/t/p/w500/j57QWe3OoaXL9Idi9gLtsAybWLP.jpg"
       },
       {
+        "rank": 2,
+        "id": "The Super Mario Galaxy Movie",
+        "title": "The Super Mario Galaxy Movie",
+        "weekendGross": "Weekend Gross: $20,583,580",
+        "studio": "Illumination",
+        "lastWeek": 1,
+        "artwork": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
+      },
+      {
+        "rank": 3,
+        "id": "Project Hail Mary",
+        "title": "Project Hail Mary",
+        "weekendGross": "Weekend Gross: $12,844,136",
+        "studio": "Lord Miller",
+        "lastWeek": 2,
+        "artwork": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
+      },
+      {
         "rank": 4,
-        "id": 1292695,
-        "title": "They Will Kill You",
-        "subtitle": "Nocturna",
-        "extra": "Released Mar 27, 2026",
-        "lastWeek": null,
-        "artwork": "https://image.tmdb.org/t/p/w500/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg"
+        "id": "Lee Cronin's The Mummy",
+        "title": "Lee Cronin's The Mummy",
+        "weekendGross": "Weekend Gross: $5,501,140",
+        "studio": "Atomic Monster",
+        "lastWeek": 3,
+        "artwork": "https://image.tmdb.org/t/p/w500/8L8efNkz8rUmwR7sV0g3vnC9yjn.jpg"
       },
       {
         "rank": 5,
-        "id": 1314481,
-        "title": "The Devil Wears Prada 2",
-        "subtitle": "20th Century Studios",
-        "extra": "Released May 1, 2026",
-        "lastWeek": null,
-        "artwork": "https://image.tmdb.org/t/p/w500/sRTYF65JvbHLoC3LoBj4UKYqIlA.jpg"
+        "id": "The Drama",
+        "title": "The Drama",
+        "weekendGross": "Weekend Gross: $2,648,084",
+        "studio": "A24",
+        "lastWeek": 4,
+        "artwork": "https://image.tmdb.org/t/p/w500/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg"
       }
     ]
   }
