@@ -178,6 +178,7 @@
     letter-spacing: -0.3px;
   }
   .entry .sub  { color: #2e2e2e; font-size: clamp(14px, 1.3vw, 22px); margin-top: 4px; font-weight: 500; }
+  .entry .sub.bold { font-weight: 700; color: var(--title); }
   .entry .last { color: #8a8a8a; font-size: clamp(12px, 1.05vw, 18px); margin-top: 4px; font-weight: 500; }
   .entry .pink { color: var(--pink-text); font-size: clamp(12px, 1.05vw, 18px); font-weight: 600; margin-top: 2px; }
 
@@ -237,7 +238,29 @@
     ));
   }
 
-  function renderCard(el, label, weekLabel, items) {
+  function renderEntry(it, type) {
+    if (!it) return `<div class="entry"></div>`;
+    if (type === 'music') {
+      const lw = it.lastWeek != null
+        ? `Last Week: ${it.lastWeek}`
+        : 'NEW';
+      return `
+        <div class="entry">
+          <h2>${escapeHtml(it.title)}</h2>
+          <span class="sub">${escapeHtml(it.subtitle)}</span>
+          <span class="last">${lw}</span>
+        </div>`;
+    }
+    // movies
+    return `
+      <div class="entry">
+        <h2>${escapeHtml(it.title)}</h2>
+        <span class="sub bold">${escapeHtml(it.weekendGross)}</span>
+        <span class="last">${escapeHtml(it.studio)}</span>
+      </div>`;
+  }
+
+  function renderCard(el, type, label, weekLabel, items) {
     const padded = [...items];
     while (padded.length < 5) padded.push(null);
 
@@ -252,22 +275,7 @@
         </div>`;
     }).join('');
 
-    const entriesHtml = padded.slice(0, 5).map((it) => {
-      if (!it) return `<div class="entry"></div>`;
-      const lastLine = it.lastWeek != null
-        ? `<span class="last">Last Week: ${it.lastWeek}</span>`
-        : `<span class="last">Last Week: —</span>`;
-      const extraLine = it.extra
-        ? `<span class="pink">${escapeHtml(it.extra)}</span>`
-        : '';
-      return `
-        <div class="entry">
-          <h2>${escapeHtml(it.title)}</h2>
-          <span class="sub">${escapeHtml(it.subtitle)}</span>
-          ${lastLine}
-          ${extraLine}
-        </div>`;
-    }).join('');
+    const entriesHtml = padded.slice(0, 5).map(it => renderEntry(it, type)).join('');
 
     el.innerHTML = `
       <div class="left">
@@ -285,12 +293,14 @@
   function render(data) {
     renderCard(
       document.getElementById('card-music'),
+      'music',
       'TOP MUSIC',
       data.music.weekLabel,
       data.music.items
     );
     renderCard(
       document.getElementById('card-movies'),
+      'movies',
       'TOP MOVIES',
       data.movies.weekLabel,
       data.movies.items
