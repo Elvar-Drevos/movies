@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-02T09:07:53.855Z",
+  "updated": "2026-05-03T09:22:41.459Z",
   "music": {
-    "weekLabel": "May 2, 2026",
+    "weekLabel": "May 3, 2026",
     "items": [
       {
         "rank": 1,
@@ -24,7 +24,7 @@
         "id": "6763029526",
         "title": "Jij Hebt Mij (feat. Roxy Dekker)",
         "subtitle": "Kevin",
-        "lastWeek": 5,
+        "lastWeek": 3,
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/7b/8d/8b7b8d33-fe72-3bc7-6417-bb914cf8e8be/26UMGIM43446.rgb.jpg/500x500bb.jpg"
       },
       {
@@ -32,21 +32,21 @@
         "id": "1817609509",
         "title": "Man I Need",
         "subtitle": "Olivia Dean",
-        "lastWeek": 3,
+        "lastWeek": 4,
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/500x500bb.jpg"
       },
       {
         "rank": 5,
-        "id": "1889992113",
-        "title": "drop dead",
-        "subtitle": "Olivia Rodrigo",
-        "lastWeek": 4,
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/500x500bb.jpg"
+        "id": "1892545227",
+        "title": "Bring Your Love",
+        "subtitle": "Madonna & Sabrina Carpenter",
+        "lastWeek": null,
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/8f/5d/eb8f5dcf-aec1-1f58-fbea-dc0bb086f1c8/093624819837.jpg/500x500bb.jpg"
       }
     ]
   },
   "movies": {
-    "weekLabel": "May 2, 2026",
+    "weekLabel": "May 3, 2026",
     "items": [
       {
         "rank": 1,
