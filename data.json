@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-22T10:52:07.566Z",
+  "updated": "2026-05-23T09:54:58.150Z",
   "music": {
-    "weekLabel": "May 22, 2026",
+    "weekLabel": "May 23, 2026",
     "items": [
       {
         "rank": 1,
@@ -13,6 +13,22 @@
       },
       {
         "rank": 2,
+        "id": "269573364",
+        "title": "Billie Jean",
+        "subtitle": "Michael Jackson",
+        "lastWeek": 3,
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/500x500bb.jpg"
+      },
+      {
+        "rank": 3,
+        "id": "1889992123",
+        "title": "the cure",
+        "subtitle": "Olivia Rodrigo",
+        "lastWeek": null,
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/500x500bb.jpg"
+      },
+      {
+        "rank": 4,
         "id": "6769568603",
         "title": "National Treasures",
         "subtitle": "Drake",
@@ -20,33 +36,17 @@
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/b2/cd/f1b2cd28-6edc-4dde-61a6-ff5f5ef94cd7/26UMGIM63614.rgb.jpg/500x500bb.jpg"
       },
       {
-        "rank": 3,
-        "id": "269573364",
-        "title": "Billie Jean",
-        "subtitle": "Michael Jackson",
-        "lastWeek": 5,
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/500x500bb.jpg"
-      },
-      {
-        "rank": 4,
-        "id": "6769568595",
-        "title": "Whisper My Name",
-        "subtitle": "Drake",
-        "lastWeek": 3,
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/b2/cd/f1b2cd28-6edc-4dde-61a6-ff5f5ef94cd7/26UMGIM63614.rgb.jpg/500x500bb.jpg"
-      },
-      {
         "rank": 5,
         "id": "6769568597",
         "title": "Ran To Atlanta",
         "subtitle": "Drake, Future & Molly Santana",
-        "lastWeek": 4,
+        "lastWeek": 5,
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/b2/cd/f1b2cd28-6edc-4dde-61a6-ff5f5ef94cd7/26UMGIM63614.rgb.jpg/500x500bb.jpg"
       }
     ]
   },
   "movies": {
-    "weekLabel": "May 22, 2026",
+    "weekLabel": "May 23, 2026",
     "items": [
       {
         "rank": 1,
@@ -68,15 +68,6 @@
       },
       {
         "rank": 3,
-        "id": "The Drama",
-        "title": "The Drama",
-        "weekendGross": "Weekend Gross: $120,490",
-        "studio": "A24",
-        "lastWeek": 4,
-        "artwork": "https://image.tmdb.org/t/p/w500/yPV87cvDabRMTZs6NIbZLOufBLR.jpg"
-      },
-      {
-        "rank": 4,
         "id": "In the Grey",
         "title": "In the Grey",
         "weekendGross": "Weekend Gross: $52,649",
@@ -85,13 +76,22 @@
         "artwork": "https://image.tmdb.org/t/p/w500/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "id": "Mother Mary",
         "title": "Mother Mary",
         "weekendGross": "Weekend Gross: $34,074",
         "studio": "A24",
         "lastWeek": null,
         "artwork": "https://image.tmdb.org/t/p/w500/qMgUI6pxkPtIuoXX4DcJ6X7bdt2.jpg"
+      },
+      {
+        "rank": 5,
+        "id": "Ready or Not 2: Here I Come",
+        "title": "Ready or Not 2: Here I Come",
+        "weekendGross": "Weekend Gross: $1,000",
+        "studio": "Searchlight Pictures",
+        "lastWeek": 10,
+        "artwork": "https://image.tmdb.org/t/p/w500/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg"
       }
     ]
   }
