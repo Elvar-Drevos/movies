@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-24T09:55:48.465Z",
+  "updated": "2026-05-25T11:53:56.424Z",
   "music": {
-    "weekLabel": "May 24, 2026",
+    "weekLabel": "May 25, 2026",
     "items": [
       {
         "rank": 1,
@@ -29,27 +29,36 @@
       },
       {
         "rank": 4,
-        "id": "1870984036",
-        "title": "American Girls",
-        "subtitle": "Harry Styles",
-        "lastWeek": null,
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/41/6a/07416a78-38b9-2d47-7ce8-8a52a44c510f/196874010112.jpg/500x500bb.jpg"
-      },
-      {
-        "rank": 5,
         "id": "1440650961",
         "title": "Beauty and a Beat (feat. Nicki Minaj)",
         "subtitle": "Justin Bieber",
-        "lastWeek": null,
+        "lastWeek": 5,
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/73/08/1a/73081a96-0f7c-b5f8-2757-5c17fb714323/12UMGIM31899.rgb.jpg/500x500bb.jpg"
+      },
+      {
+        "rank": 5,
+        "id": "1870984036",
+        "title": "American Girls",
+        "subtitle": "Harry Styles",
+        "lastWeek": 4,
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/41/6a/07416a78-38b9-2d47-7ce8-8a52a44c510f/196874010112.jpg/500x500bb.jpg"
       }
     ]
   },
   "movies": {
-    "weekLabel": "May 24, 2026",
+    "weekLabel": "May 25, 2026",
     "items": [
       {
         "rank": 1,
+        "id": "Michael",
+        "title": "Michael",
+        "weekendGross": "Weekend Gross: $2,339,093",
+        "studio": "Lionsgate",
+        "lastWeek": 1,
+        "artwork": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg"
+      },
+      {
+        "rank": 2,
         "id": "The Devil Wears Prada 2",
         "title": "The Devil Wears Prada 2",
         "weekendGross": "Weekend Gross: $1,223,000",
@@ -58,7 +67,16 @@
         "artwork": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "id": "The Super Mario Galaxy Movie",
+        "title": "The Super Mario Galaxy Movie",
+        "weekendGross": "Weekend Gross: $988,402",
+        "studio": "Illumination",
+        "lastWeek": 3,
+        "artwork": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
+      },
+      {
+        "rank": 4,
         "id": "Hoppers",
         "title": "Hoppers",
         "weekendGross": "Weekend Gross: $206,000",
@@ -67,31 +85,13 @@
         "artwork": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "id": "In the Grey",
         "title": "In the Grey",
         "weekendGross": "Weekend Gross: $52,649",
         "studio": "C2 Motion Picture Group",
         "lastWeek": null,
         "artwork": "https://image.tmdb.org/t/p/w500/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg"
-      },
-      {
-        "rank": 4,
-        "id": "Mother Mary",
-        "title": "Mother Mary",
-        "weekendGross": "Weekend Gross: $34,074",
-        "studio": "A24",
-        "lastWeek": null,
-        "artwork": "https://image.tmdb.org/t/p/w500/qMgUI6pxkPtIuoXX4DcJ6X7bdt2.jpg"
-      },
-      {
-        "rank": 5,
-        "id": "Ready or Not 2: Here I Come",
-        "title": "Ready or Not 2: Here I Come",
-        "weekendGross": "Weekend Gross: $1,000",
-        "studio": "Searchlight Pictures",
-        "lastWeek": 10,
-        "artwork": "https://image.tmdb.org/t/p/w500/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg"
       }
     ]
   }
