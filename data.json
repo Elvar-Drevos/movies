@@ -1,23 +1,23 @@
 {
-  "updated": "2026-05-29T11:30:46.989Z",
+  "updated": "2026-05-30T10:01:27.297Z",
   "music": {
-    "weekLabel": "May 29, 2026",
+    "weekLabel": "May 30, 2026",
     "items": [
       {
         "rank": 1,
+        "id": "6763656725",
+        "title": "hate that i made you love me",
+        "subtitle": "Ariana Grande",
+        "lastWeek": null,
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/f4/96/56f49612-02dd-83f4-44fe-d2118cc70707/26UMGIM51129.rgb.jpg/500x500bb.jpg"
+      },
+      {
+        "rank": 2,
         "id": "6769568596",
         "title": "Janice STFU",
         "subtitle": "Drake",
         "lastWeek": 1,
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/500x500bb.jpg"
-      },
-      {
-        "rank": 2,
-        "id": "1889992123",
-        "title": "the cure",
-        "subtitle": "Olivia Rodrigo",
-        "lastWeek": 2,
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/500x500bb.jpg"
       },
       {
         "rank": 3,
@@ -29,24 +29,24 @@
       },
       {
         "rank": 4,
+        "id": "1889992123",
+        "title": "the cure",
+        "subtitle": "Olivia Rodrigo",
+        "lastWeek": 2,
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/500x500bb.jpg"
+      },
+      {
+        "rank": 5,
         "id": "1870984036",
         "title": "American Girls",
         "subtitle": "Harry Styles",
         "lastWeek": 4,
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/41/6a/07416a78-38b9-2d47-7ce8-8a52a44c510f/196874010112.jpg/500x500bb.jpg"
-      },
-      {
-        "rank": 5,
-        "id": "1440650961",
-        "title": "Beauty and a Beat (feat. Nicki Minaj)",
-        "subtitle": "Justin Bieber",
-        "lastWeek": 5,
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/73/08/1a/73081a96-0f7c-b5f8-2757-5c17fb714323/12UMGIM31899.rgb.jpg/500x500bb.jpg"
       }
     ]
   },
   "movies": {
-    "weekLabel": "May 29, 2026",
+    "weekLabel": "May 30, 2026",
     "items": [
       {
         "rank": 1,
@@ -55,10 +55,19 @@
         "weekendGross": "Weekend Gross: $1,242,000",
         "studio": "Lucasfilm Ltd.",
         "lastWeek": null,
-        "artwork": "https://image.tmdb.org/t/p/w500/cE9LAdexd9ju0yIkmCJBOKZg9JR.jpg"
+        "artwork": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg"
       },
       {
         "rank": 2,
+        "id": "Michael",
+        "title": "Michael",
+        "weekendGross": "Weekend Gross: $757,031",
+        "studio": "Lionsgate",
+        "lastWeek": 1,
+        "artwork": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg"
+      },
+      {
+        "rank": 3,
         "id": "The Devil Wears Prada 2",
         "title": "The Devil Wears Prada 2",
         "weekendGross": "Weekend Gross: $392,000",
@@ -67,7 +76,7 @@
         "artwork": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": "In the Grey",
         "title": "In the Grey",
         "weekendGross": "Weekend Gross: $101,530",
@@ -76,22 +85,13 @@
         "artwork": "https://image.tmdb.org/t/p/w500/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg"
       },
       {
-        "rank": 4,
-        "id": "The Drama",
-        "title": "The Drama",
-        "weekendGross": "Weekend Gross: $25,346",
-        "studio": "A24",
-        "lastWeek": null,
-        "artwork": "https://image.tmdb.org/t/p/w500/89Dw1ujPlIPRLddhzNuJM4F401D.jpg"
-      },
-      {
         "rank": 5,
-        "id": "Hoppers",
-        "title": "Hoppers",
-        "weekendGross": "Weekend Gross: $16,000",
-        "studio": "Pixar",
-        "lastWeek": 4,
-        "artwork": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
+        "id": "The Super Mario Galaxy Movie",
+        "title": "The Super Mario Galaxy Movie",
+        "weekendGross": "Weekend Gross: $99,376",
+        "studio": "Illumination",
+        "lastWeek": 3,
+        "artwork": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
       }
     ]
   }
