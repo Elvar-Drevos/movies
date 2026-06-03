@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-02T12:05:13.865Z",
+  "updated": "2026-06-03T12:42:27.923Z",
   "music": {
-    "weekLabel": "Jun 2, 2026",
+    "weekLabel": "Jun 3, 2026",
     "items": [
       {
         "rank": 1,
@@ -16,7 +16,7 @@
         "id": "6769568596",
         "title": "Janice STFU",
         "subtitle": "Drake",
-        "lastWeek": 3,
+        "lastWeek": 2,
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/500x500bb.jpg"
       },
       {
@@ -24,32 +24,41 @@
         "id": "269573364",
         "title": "Billie Jean",
         "subtitle": "Michael Jackson",
-        "lastWeek": 2,
+        "lastWeek": 3,
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/500x500bb.jpg"
       },
       {
         "rank": 4,
-        "id": "6773335582",
-        "title": "POPULAIR (feat. Ronnie Flex & Frenna)",
-        "subtitle": "Idaly",
-        "lastWeek": 5,
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/24/a2/e1/24a2e1f2-2ec1-abbd-b5ab-eed485a815c6/26UMGIM65679.rgb.jpg/500x500bb.jpg"
-      },
-      {
-        "rank": 5,
         "id": "1889992123",
         "title": "the cure",
         "subtitle": "Olivia Rodrigo",
-        "lastWeek": null,
+        "lastWeek": 5,
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/500x500bb.jpg"
+      },
+      {
+        "rank": 5,
+        "id": "6773335582",
+        "title": "POPULAIR (feat. Ronnie Flex & Frenna)",
+        "subtitle": "Idaly",
+        "lastWeek": 4,
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/24/a2/e1/24a2e1f2-2ec1-abbd-b5ab-eed485a815c6/26UMGIM65679.rgb.jpg/500x500bb.jpg"
       }
     ]
   },
   "movies": {
-    "weekLabel": "Jun 2, 2026",
+    "weekLabel": "Jun 3, 2026",
     "items": [
       {
         "rank": 1,
+        "id": "Backrooms",
+        "title": "Backrooms",
+        "weekendGross": "Weekend Gross: $711,793",
+        "studio": "Atomic Monster",
+        "lastWeek": null,
+        "artwork": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
+      },
+      {
+        "rank": 2,
         "id": "Michael",
         "title": "Michael",
         "weekendGross": "Weekend Gross: $636,868",
@@ -58,22 +67,31 @@
         "artwork": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg"
       },
       {
-        "rank": 2,
-        "id": "The Super Mario Galaxy Movie",
-        "title": "The Super Mario Galaxy Movie",
-        "weekendGross": "Weekend Gross: $100,600",
-        "studio": "Illumination",
-        "lastWeek": 5,
-        "artwork": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
+        "rank": 3,
+        "id": "Star Wars: The Mandalorian and Grogu",
+        "title": "Star Wars: The Mandalorian and Grogu",
+        "weekendGross": "Weekend Gross: $507,000",
+        "studio": "Lucasfilm Ltd.",
+        "lastWeek": 1,
+        "artwork": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg"
       },
       {
-        "rank": 3,
-        "id": "You, Me & Tuscany",
-        "title": "You, Me & Tuscany",
-        "weekendGross": "Weekend Gross: $9",
-        "studio": "Will Packer Productions",
-        "lastWeek": 10,
-        "artwork": "https://image.tmdb.org/t/p/w500/mJS0IF7Af3WpPRhSTDT6rGpiLzw.jpg"
+        "rank": 4,
+        "id": "The Devil Wears Prada 2",
+        "title": "The Devil Wears Prada 2",
+        "weekendGross": "Weekend Gross: $307,000",
+        "studio": "20th Century Studios",
+        "lastWeek": 3,
+        "artwork": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg"
+      },
+      {
+        "rank": 5,
+        "id": "Tuner",
+        "title": "Tuner",
+        "weekendGross": "Weekend Gross: $138,469",
+        "studio": "Black Bear Pictures",
+        "lastWeek": null,
+        "artwork": "https://image.tmdb.org/t/p/w500/kyM60vcgf7lfofmZB4F5Rj7OrHW.jpg"
       }
     ]
   }
