@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-04T11:16:40.285Z",
+  "updated": "2026-06-05T11:29:26.246Z",
   "music": {
-    "weekLabel": "Jun 4, 2026",
+    "weekLabel": "Jun 5, 2026",
     "items": [
       {
         "rank": 1,
@@ -16,7 +16,7 @@
         "id": "269573364",
         "title": "Billie Jean",
         "subtitle": "Michael Jackson",
-        "lastWeek": 3,
+        "lastWeek": 2,
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/500x500bb.jpg"
       },
       {
@@ -24,29 +24,29 @@
         "id": "6769568596",
         "title": "Janice STFU",
         "subtitle": "Drake",
-        "lastWeek": 2,
+        "lastWeek": 3,
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/500x500bb.jpg"
       },
       {
         "rank": 4,
+        "id": "1870984036",
+        "title": "American Girls",
+        "subtitle": "Harry Styles",
+        "lastWeek": 5,
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/41/6a/07416a78-38b9-2d47-7ce8-8a52a44c510f/196874010112.jpg/500x500bb.jpg"
+      },
+      {
+        "rank": 5,
         "id": "1889992123",
         "title": "the cure",
         "subtitle": "Olivia Rodrigo",
         "lastWeek": 4,
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/500x500bb.jpg"
-      },
-      {
-        "rank": 5,
-        "id": "1870984036",
-        "title": "American Girls",
-        "subtitle": "Harry Styles",
-        "lastWeek": null,
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/41/6a/07416a78-38b9-2d47-7ce8-8a52a44c510f/196874010112.jpg/500x500bb.jpg"
       }
     ]
   },
   "movies": {
-    "weekLabel": "Jun 4, 2026",
+    "weekLabel": "Jun 5, 2026",
     "items": [
       {
         "rank": 1,
@@ -61,7 +61,7 @@
         "rank": 2,
         "id": "Michael",
         "title": "Michael",
-        "weekendGross": "Weekend Gross: $636,868",
+        "weekendGross": "Weekend Gross: $639,005",
         "studio": "Lionsgate",
         "lastWeek": 2,
         "artwork": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg"
