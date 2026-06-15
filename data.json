@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-14T10:49:18.561Z",
+  "updated": "2026-06-15T13:56:43.092Z",
   "music": {
-    "weekLabel": "Jun 14, 2026",
+    "weekLabel": "Jun 15, 2026",
     "items": [
       {
         "rank": 1,
@@ -46,52 +46,16 @@
     ]
   },
   "movies": {
-    "weekLabel": "Jun 14, 2026",
+    "weekLabel": "Jun 15, 2026",
     "items": [
       {
         "rank": 1,
-        "id": "Michael",
-        "title": "Michael",
-        "weekendGross": "Weekend Gross: $755,825",
-        "studio": "Lionsgate",
-        "lastWeek": 2,
-        "artwork": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg"
-      },
-      {
-        "rank": 2,
-        "id": "Scary Movie",
-        "title": "Scary Movie",
-        "weekendGross": "Weekend Gross: $615,000",
-        "studio": "Miramax",
+        "id": "Disclosure Day",
+        "title": "Disclosure Day",
+        "weekendGross": "Weekend Gross: $900,000",
+        "studio": "Universal Pictures",
         "lastWeek": null,
-        "artwork": "https://image.tmdb.org/t/p/w500/reZ8NInXjMkkaOpUHcI3Pn7iaRN.jpg"
-      },
-      {
-        "rank": 3,
-        "id": "Backrooms",
-        "title": "Backrooms",
-        "weekendGross": "Weekend Gross: $584,044",
-        "studio": "Atomic Monster",
-        "lastWeek": 1,
-        "artwork": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
-      },
-      {
-        "rank": 4,
-        "id": "Star Wars: The Mandalorian and Grogu",
-        "title": "Star Wars: The Mandalorian and Grogu",
-        "weekendGross": "Weekend Gross: $343,000",
-        "studio": "Lucasfilm Ltd.",
-        "lastWeek": 3,
-        "artwork": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg"
-      },
-      {
-        "rank": 5,
-        "id": "The Devil Wears Prada 2",
-        "title": "The Devil Wears Prada 2",
-        "weekendGross": "Weekend Gross: $305,000",
-        "studio": "20th Century Studios",
-        "lastWeek": 4,
-        "artwork": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg"
+        "artwork": "https://image.tmdb.org/t/p/w500/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg"
       }
     ]
   }
