@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-15T13:56:43.092Z",
+  "updated": "2026-06-16T12:54:41.464Z",
   "music": {
-    "weekLabel": "Jun 15, 2026",
+    "weekLabel": "Jun 16, 2026",
     "items": [
       {
         "rank": 1,
@@ -46,7 +46,7 @@
     ]
   },
   "movies": {
-    "weekLabel": "Jun 15, 2026",
+    "weekLabel": "Jun 16, 2026",
     "items": [
       {
         "rank": 1,
@@ -56,6 +56,42 @@
         "studio": "Universal Pictures",
         "lastWeek": null,
         "artwork": "https://image.tmdb.org/t/p/w500/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg"
+      },
+      {
+        "rank": 2,
+        "id": "Shelter",
+        "title": "Shelter",
+        "weekendGross": "Weekend Gross: $412,600",
+        "studio": "Black Bear Pictures",
+        "lastWeek": null,
+        "artwork": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg"
+      },
+      {
+        "rank": 3,
+        "id": "In the Grey",
+        "title": "In the Grey",
+        "weekendGross": "Weekend Gross: $345,768",
+        "studio": "C2 Motion Picture Group",
+        "lastWeek": 8,
+        "artwork": "https://image.tmdb.org/t/p/w500/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg"
+      },
+      {
+        "rank": 4,
+        "id": "The Devil Wears Prada 2",
+        "title": "The Devil Wears Prada 2",
+        "weekendGross": "Weekend Gross: $210,000",
+        "studio": "20th Century Studios",
+        "lastWeek": 5,
+        "artwork": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg"
+      },
+      {
+        "rank": 5,
+        "id": "Star Wars: The Mandalorian and Grogu",
+        "title": "Star Wars: The Mandalorian and Grogu",
+        "weekendGross": "Weekend Gross: $186,000",
+        "studio": "Lucasfilm Ltd.",
+        "lastWeek": 4,
+        "artwork": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg"
       }
     ]
   }
