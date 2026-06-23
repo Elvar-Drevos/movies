@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-22T13:35:36.224Z",
+  "updated": "2026-06-23T11:17:39.280Z",
   "music": {
-    "weekLabel": "Jun 22, 2026",
+    "weekLabel": "Jun 23, 2026",
     "items": [
       {
         "rank": 1,
@@ -46,52 +46,43 @@
     ]
   },
   "movies": {
-    "weekLabel": "Jun 22, 2026",
+    "weekLabel": "Jun 23, 2026",
     "items": [
       {
         "rank": 1,
-        "id": "Disclosure Day",
-        "title": "Disclosure Day",
-        "weekendGross": "Weekend Gross: $795,215",
-        "studio": "Universal Pictures",
+        "id": "Toy Story 5",
+        "title": "Toy Story 5",
+        "weekendGross": "Weekend Gross: $872,000",
+        "studio": "Pixar",
         "lastWeek": null,
-        "artwork": "https://image.tmdb.org/t/p/w500/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg"
+        "artwork": "https://image.tmdb.org/t/p/w500/a6H2U7pjibMia41TwyFVd1PVQw3.jpg"
       },
       {
         "rank": 2,
-        "id": "Michael",
-        "title": "Michael",
-        "weekendGross": "Weekend Gross: $461,935",
-        "studio": "Lionsgate",
-        "lastWeek": 1,
-        "artwork": "https://image.tmdb.org/t/p/w500/zZtagf8mE4mdUqpWskVn23HaoiG.jpg"
+        "id": "Star Wars: The Mandalorian and Grogu",
+        "title": "Star Wars: The Mandalorian and Grogu",
+        "weekendGross": "Weekend Gross: $84,000",
+        "studio": "Lucasfilm Ltd.",
+        "lastWeek": 6,
+        "artwork": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg"
       },
       {
         "rank": 3,
-        "id": "Shelter",
-        "title": "Shelter",
-        "weekendGross": "Weekend Gross: $412,600",
-        "studio": "Black Bear Pictures",
-        "lastWeek": null,
-        "artwork": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg"
-      },
-      {
-        "rank": 4,
-        "id": "In the Grey",
-        "title": "In the Grey",
-        "weekendGross": "Weekend Gross: $345,768",
-        "studio": "C2 Motion Picture Group",
-        "lastWeek": 8,
-        "artwork": "https://image.tmdb.org/t/p/w500/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg"
-      },
-      {
-        "rank": 5,
         "id": "The Devil Wears Prada 2",
         "title": "The Devil Wears Prada 2",
-        "weekendGross": "Weekend Gross: $210,000",
+        "weekendGross": "Weekend Gross: $82,000",
         "studio": "20th Century Studios",
         "lastWeek": 5,
         "artwork": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg"
+      },
+      {
+        "rank": 4,
+        "id": "Hoppers",
+        "title": "Hoppers",
+        "weekendGross": "Weekend Gross: $2,000",
+        "studio": "Pixar",
+        "lastWeek": 9,
+        "artwork": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
       }
     ]
   }
