@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-27T10:09:49.048Z",
+  "updated": "2026-06-28T10:28:25.398Z",
   "music": {
-    "weekLabel": "Jun 27, 2026",
+    "weekLabel": "Jun 28, 2026",
     "items": [
       {
         "rank": 1,
@@ -13,6 +13,14 @@
       },
       {
         "rank": 2,
+        "id": "6779987091",
+        "title": "SUPERSTAR",
+        "subtitle": "Roxy Dekker",
+        "lastWeek": 3,
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/b5/fc/60b5fcda-f90b-1020-dd86-b35c8fc26266/1200214322137.jpg/500x500bb.jpg"
+      },
+      {
+        "rank": 3,
         "id": "1889992115",
         "title": "stupid song",
         "subtitle": "Olivia Rodrigo",
@@ -20,33 +28,25 @@
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/500x500bb.jpg"
       },
       {
-        "rank": 3,
-        "id": "6779987091",
-        "title": "SUPERSTAR",
-        "subtitle": "Roxy Dekker",
-        "lastWeek": null,
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/b5/fc/60b5fcda-f90b-1020-dd86-b35c8fc26266/1200214322137.jpg/500x500bb.jpg"
-      },
-      {
         "rank": 4,
         "id": "1889992123",
         "title": "the cure",
         "subtitle": "Olivia Rodrigo",
-        "lastWeek": 3,
+        "lastWeek": 4,
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/500x500bb.jpg"
       },
       {
         "rank": 5,
-        "id": "1889992113",
-        "title": "drop dead",
-        "subtitle": "Olivia Rodrigo",
-        "lastWeek": 5,
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/500x500bb.jpg"
+        "id": "6763656876",
+        "title": "hate that i made you love me",
+        "subtitle": "Ariana Grande",
+        "lastWeek": null,
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/500x500bb.jpg"
       }
     ]
   },
   "movies": {
-    "weekLabel": "Jun 27, 2026",
+    "weekLabel": "Jun 28, 2026",
     "items": [
       {
         "rank": 1,
