@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-03T10:36:33.318Z",
+  "updated": "2026-07-04T10:10:34.256Z",
   "music": {
-    "weekLabel": "Jul 3, 2026",
+    "weekLabel": "Jul 4, 2026",
     "items": [
       {
         "rank": 1,
@@ -13,6 +13,14 @@
       },
       {
         "rank": 2,
+        "id": "1892545229",
+        "title": "Danceteria",
+        "subtitle": "Madonna",
+        "lastWeek": null,
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/8f/5d/eb8f5dcf-aec1-1f58-fbea-dc0bb086f1c8/093624819837.jpg/500x500bb.jpg"
+      },
+      {
+        "rank": 3,
         "id": "1889992115",
         "title": "stupid song",
         "subtitle": "Olivia Rodrigo",
@@ -20,33 +28,25 @@
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/500x500bb.jpg"
       },
       {
-        "rank": 3,
-        "id": "6763656876",
-        "title": "hate that i made you love me",
-        "subtitle": "Ariana Grande",
-        "lastWeek": 5,
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/500x500bb.jpg"
-      },
-      {
         "rank": 4,
-        "id": "1889992123",
-        "title": "the cure",
-        "subtitle": "Olivia Rodrigo",
-        "lastWeek": 4,
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/500x500bb.jpg"
+        "id": "1866732800",
+        "title": "I Just Might",
+        "subtitle": "Bruno Mars",
+        "lastWeek": null,
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/46/bf/ed46bf4e-7cb9-965a-54f3-03059977fe6c/075679589293.jpg/500x500bb.jpg"
       },
       {
         "rank": 5,
-        "id": "6779987091",
-        "title": "SUPERSTAR",
-        "subtitle": "Roxy Dekker",
-        "lastWeek": 3,
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/b5/fc/60b5fcda-f90b-1020-dd86-b35c8fc26266/1200214322137.jpg/500x500bb.jpg"
+        "id": "1866732797",
+        "title": "Risk It All",
+        "subtitle": "Bruno Mars",
+        "lastWeek": null,
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/46/bf/ed46bf4e-7cb9-965a-54f3-03059977fe6c/075679589293.jpg/500x500bb.jpg"
       }
     ]
   },
   "movies": {
-    "weekLabel": "Jul 3, 2026",
+    "weekLabel": "Jul 4, 2026",
     "items": [
       {
         "rank": 1,
@@ -55,7 +55,7 @@
         "weekendGross": "Weekend Gross: $1,051,000",
         "studio": "Pixar",
         "lastWeek": 1,
-        "artwork": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
+        "artwork": "https://image.tmdb.org/t/p/w500/pxG26JdyuiDvJbSoucknaFiLeZD.jpg"
       },
       {
         "rank": 2,
@@ -64,7 +64,7 @@
         "weekendGross": "Weekend Gross: $357,401",
         "studio": "Universal Pictures",
         "lastWeek": 2,
-        "artwork": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg"
+        "artwork": "https://image.tmdb.org/t/p/w500/7RYO0KTXIJ0rS0LqnCQLxeNR3P3.jpg"
       },
       {
         "rank": 3,
