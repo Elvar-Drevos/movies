@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-06T12:05:11.084Z",
+  "updated": "2026-07-07T10:57:14.915Z",
   "music": {
-    "weekLabel": "Jul 6, 2026",
+    "weekLabel": "Jul 7, 2026",
     "items": [
       {
         "rank": 1,
@@ -40,58 +40,22 @@
         "id": "1889992115",
         "title": "stupid song",
         "subtitle": "Olivia Rodrigo",
-        "lastWeek": null,
+        "lastWeek": 5,
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/500x500bb.jpg"
       }
     ]
   },
   "movies": {
-    "weekLabel": "Jul 6, 2026",
+    "weekLabel": "Jul 7, 2026",
     "items": [
       {
         "rank": 1,
-        "id": "Toy Story 5",
-        "title": "Toy Story 5",
-        "weekendGross": "Weekend Gross: $1,051,000",
-        "studio": "Pixar",
-        "lastWeek": 1,
-        "artwork": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
-      },
-      {
-        "rank": 2,
-        "id": "Disclosure Day",
-        "title": "Disclosure Day",
-        "weekendGross": "Weekend Gross: $357,401",
-        "studio": "Universal Pictures",
-        "lastWeek": 2,
-        "artwork": "https://image.tmdb.org/t/p/w500/7RYO0KTXIJ0rS0LqnCQLxeNR3P3.jpg"
-      },
-      {
-        "rank": 3,
-        "id": "Jackass: Best and Last",
-        "title": "Jackass: Best and Last",
-        "weekendGross": "Weekend Gross: $240,000",
-        "studio": "Paramount Pictures",
-        "lastWeek": null,
-        "artwork": "https://image.tmdb.org/t/p/w500/tfgccePxnswMqhmtxafliLlcCVR.jpg"
-      },
-      {
-        "rank": 4,
-        "id": "Michael",
-        "title": "Michael",
-        "weekendGross": "Weekend Gross: $230,306",
-        "studio": "Lionsgate",
-        "lastWeek": 3,
-        "artwork": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg"
-      },
-      {
-        "rank": 5,
-        "id": "Backrooms",
-        "title": "Backrooms",
-        "weekendGross": "Weekend Gross: $121,466",
-        "studio": "Atomic Monster",
-        "lastWeek": 4,
-        "artwork": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
+        "id": "The Devil Wears Prada 2",
+        "title": "The Devil Wears Prada 2",
+        "weekendGross": "Weekend Gross: $594,000",
+        "studio": "20th Century Studios",
+        "lastWeek": 6,
+        "artwork": "https://image.tmdb.org/t/p/w500/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg"
       }
     ]
   }
