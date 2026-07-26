@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-25T09:48:04.850Z",
+  "updated": "2026-07-26T10:02:41.659Z",
   "music": {
-    "weekLabel": "Jul 25, 2026",
+    "weekLabel": "Jul 26, 2026",
     "items": [
       {
         "rank": 1,
@@ -16,19 +16,11 @@
         "id": "6768409414",
         "title": "Zwoele Zomernachten",
         "subtitle": "Rutger Van Barneveld",
-        "lastWeek": 5,
+        "lastWeek": 2,
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/a4/27/79a427a8-ec2c-8e40-c304-e3f595da9d33/8721466632476.png/500x500bb.jpg"
       },
       {
         "rank": 3,
-        "id": "1889992115",
-        "title": "stupid song",
-        "subtitle": "Olivia Rodrigo",
-        "lastWeek": 2,
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/500x500bb.jpg"
-      },
-      {
-        "rank": 4,
         "id": "269573364",
         "title": "Billie Jean",
         "subtitle": "Michael Jackson",
@@ -36,17 +28,25 @@
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/500x500bb.jpg"
       },
       {
+        "rank": 4,
+        "id": "1889992115",
+        "title": "stupid song",
+        "subtitle": "Olivia Rodrigo",
+        "lastWeek": 3,
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/500x500bb.jpg"
+      },
+      {
         "rank": 5,
         "id": "6763656876",
         "title": "hate that i made you love me",
         "subtitle": "Ariana Grande",
-        "lastWeek": 3,
+        "lastWeek": 5,
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/500x500bb.jpg"
       }
     ]
   },
   "movies": {
-    "weekLabel": "Jul 25, 2026",
+    "weekLabel": "Jul 26, 2026",
     "items": [
       {
         "rank": 1,
