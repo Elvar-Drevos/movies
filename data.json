@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-30T10:24:57.718Z",
+  "updated": "2026-07-31T10:39:37.710Z",
   "music": {
-    "weekLabel": "Jul 30, 2026",
+    "weekLabel": "Jul 31, 2026",
     "items": [
       {
         "rank": 1,
@@ -13,14 +13,6 @@
       },
       {
         "rank": 2,
-        "id": "1889992115",
-        "title": "stupid song",
-        "subtitle": "Olivia Rodrigo",
-        "lastWeek": 2,
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/500x500bb.jpg"
-      },
-      {
-        "rank": 3,
         "id": "6763656876",
         "title": "hate that i made you love me",
         "subtitle": "Ariana Grande",
@@ -28,11 +20,19 @@
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/500x500bb.jpg"
       },
       {
+        "rank": 3,
+        "id": "1889992115",
+        "title": "stupid song",
+        "subtitle": "Olivia Rodrigo",
+        "lastWeek": 2,
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/500x500bb.jpg"
+      },
+      {
         "rank": 4,
         "id": "6768409414",
         "title": "Zwoele Zomernachten",
         "subtitle": "Rutger Van Barneveld",
-        "lastWeek": 5,
+        "lastWeek": 4,
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/a4/27/79a427a8-ec2c-8e40-c304-e3f595da9d33/8721466632476.png/500x500bb.jpg"
       },
       {
@@ -40,13 +40,13 @@
         "id": "269573364",
         "title": "Billie Jean",
         "subtitle": "Michael Jackson",
-        "lastWeek": 4,
+        "lastWeek": 5,
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/500x500bb.jpg"
       }
     ]
   },
   "movies": {
-    "weekLabel": "Jul 30, 2026",
+    "weekLabel": "Jul 31, 2026",
     "items": [
       {
         "rank": 1,
@@ -68,21 +68,30 @@
       },
       {
         "rank": 3,
-        "id": "The Devil Wears Prada 2",
-        "title": "The Devil Wears Prada 2",
-        "weekendGross": "Weekend Gross: $9,000",
-        "studio": "20th Century Studios",
-        "lastWeek": 10,
-        "artwork": "https://image.tmdb.org/t/p/w500/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg"
+        "id": "The Invite",
+        "title": "The Invite",
+        "weekendGross": "Weekend Gross: $244,014",
+        "studio": "Annapurna Pictures",
+        "lastWeek": 5,
+        "artwork": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg"
       },
       {
         "rank": 4,
-        "id": "Star Wars: The Mandalorian and Grogu",
-        "title": "Star Wars: The Mandalorian and Grogu",
-        "weekendGross": "Weekend Gross: $5,000",
-        "studio": "Lucasfilm Ltd.",
-        "lastWeek": 11,
-        "artwork": "https://image.tmdb.org/t/p/w500/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg"
+        "id": "Good Luck, Have Fun, Don't Die",
+        "title": "Good Luck, Have Fun, Don't Die",
+        "weekendGross": "Weekend Gross: $41,724",
+        "studio": "Constantin Film",
+        "lastWeek": null,
+        "artwork": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg"
+      },
+      {
+        "rank": 5,
+        "id": "Tuner",
+        "title": "Tuner",
+        "weekendGross": "Weekend Gross: $9,233",
+        "studio": "Black Bear Pictures",
+        "lastWeek": 12,
+        "artwork": "https://image.tmdb.org/t/p/w500/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg"
       }
     ]
   }
