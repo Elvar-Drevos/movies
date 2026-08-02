@@ -1,30 +1,30 @@
 {
-  "updated": "2026-08-01T09:59:55.198Z",
+  "updated": "2026-08-02T09:57:29.677Z",
   "music": {
-    "weekLabel": "Aug 1, 2026",
+    "weekLabel": "Aug 2, 2026",
     "items": [
       {
         "rank": 1,
-        "id": "6763656876",
-        "title": "hate that i made you love me",
-        "subtitle": "Ariana Grande",
-        "lastWeek": 2,
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/500x500bb.jpg"
-      },
-      {
-        "rank": 2,
         "id": "6763656726",
         "title": "petal",
         "subtitle": "Ariana Grande",
-        "lastWeek": null,
+        "lastWeek": 2,
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/f4/96/56f49612-02dd-83f4-44fe-d2118cc70707/26UMGIM51129.rgb.jpg/500x500bb.jpg"
+      },
+      {
+        "rank": 2,
+        "id": "6763656876",
+        "title": "hate that i made you love me",
+        "subtitle": "Ariana Grande",
+        "lastWeek": 1,
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/500x500bb.jpg"
       },
       {
         "rank": 3,
         "id": "6763656723",
         "title": "kiss me",
         "subtitle": "Ariana Grande",
-        "lastWeek": null,
+        "lastWeek": 3,
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/f4/96/56f49612-02dd-83f4-44fe-d2118cc70707/26UMGIM51129.rgb.jpg/500x500bb.jpg"
       },
       {
@@ -32,7 +32,7 @@
         "id": "6768469976",
         "title": "Dai Dai",
         "subtitle": "Shakira & Burna Boy",
-        "lastWeek": 1,
+        "lastWeek": 4,
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/500x500bb.jpg"
       },
       {
@@ -40,13 +40,13 @@
         "id": "6763656729",
         "title": "oh well",
         "subtitle": "Ariana Grande",
-        "lastWeek": null,
+        "lastWeek": 5,
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/f4/96/56f49612-02dd-83f4-44fe-d2118cc70707/26UMGIM51129.rgb.jpg/500x500bb.jpg"
       }
     ]
   },
   "movies": {
-    "weekLabel": "Aug 1, 2026",
+    "weekLabel": "Aug 2, 2026",
     "items": [
       {
         "rank": 1,
