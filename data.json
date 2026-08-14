@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-13T09:12:16.201Z",
+  "updated": "2026-08-14T09:07:00.180Z",
   "music": {
-    "weekLabel": "Aug 13, 2026",
+    "weekLabel": "Aug 14, 2026",
     "items": [
       {
         "rank": 1,
@@ -40,13 +40,13 @@
         "id": "6768409414",
         "title": "Zwoele Zomernachten",
         "subtitle": "Rutger Van Barneveld",
-        "lastWeek": null,
+        "lastWeek": 5,
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/a4/27/79a427a8-ec2c-8e40-c304-e3f595da9d33/8721466632476.png/500x500bb.jpg"
       }
     ]
   },
   "movies": {
-    "weekLabel": "Aug 13, 2026",
+    "weekLabel": "Aug 14, 2026",
     "items": [
       {
         "rank": 1,
@@ -77,21 +77,21 @@
       },
       {
         "rank": 4,
-        "id": "Star Wars: The Mandalorian and Grogu",
-        "title": "Star Wars: The Mandalorian and Grogu",
-        "weekendGross": "Weekend Gross: $2,000",
-        "studio": "Lucasfilm Ltd.",
-        "lastWeek": 9,
-        "artwork": "https://image.tmdb.org/t/p/w500/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg"
+        "id": "De Gaulle: Résistance",
+        "title": "De Gaulle: Résistance",
+        "weekendGross": "Weekend Gross: $58,044",
+        "studio": "Pathé",
+        "lastWeek": null,
+        "artwork": "https://image.tmdb.org/t/p/w500/tMqAZgh0oT09YQuxN94n0z0BVgt.jpg"
       },
       {
         "rank": 5,
-        "id": "The Devil Wears Prada 2",
-        "title": "The Devil Wears Prada 2",
-        "weekendGross": "Weekend Gross: $1,000",
-        "studio": "20th Century Studios",
-        "lastWeek": 7,
-        "artwork": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg"
+        "id": "Good Luck, Have Fun, Don't Die",
+        "title": "Good Luck, Have Fun, Don't Die",
+        "weekendGross": "Weekend Gross: $16,729",
+        "studio": "Constantin Film",
+        "lastWeek": 5,
+        "artwork": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg"
       }
     ]
   }
