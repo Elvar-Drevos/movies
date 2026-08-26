@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-25T08:42:06.374Z",
+  "updated": "2026-08-26T08:43:11.375Z",
   "music": {
-    "weekLabel": "Aug 25, 2026",
+    "weekLabel": "Aug 26, 2026",
     "items": [
       {
         "rank": 1,
@@ -24,7 +24,7 @@
         "id": "1889992115",
         "title": "stupid song",
         "subtitle": "Olivia Rodrigo",
-        "lastWeek": 5,
+        "lastWeek": 3,
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/500x500bb.jpg"
       },
       {
@@ -32,21 +32,21 @@
         "id": "1836226731",
         "title": "Loser",
         "subtitle": "Tame Impala",
-        "lastWeek": null,
+        "lastWeek": 4,
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/54/11/80541122-c1c4-50ad-a673-ff79f4cf8aa7/196873555331.jpg/500x500bb.jpg"
       },
       {
         "rank": 5,
-        "id": "6779987091",
-        "title": "SUPERSTAR",
-        "subtitle": "Roxy Dekker",
-        "lastWeek": 3,
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/b5/fc/60b5fcda-f90b-1020-dd86-b35c8fc26266/1200214322137.jpg/500x500bb.jpg"
+        "id": "6763656878",
+        "title": "petal",
+        "subtitle": "Ariana Grande",
+        "lastWeek": null,
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/500x500bb.jpg"
       }
     ]
   },
   "movies": {
-    "weekLabel": "Aug 25, 2026",
+    "weekLabel": "Aug 26, 2026",
     "items": [
       {
         "rank": 1,
@@ -59,6 +59,15 @@
       },
       {
         "rank": 2,
+        "id": "Mutiny",
+        "title": "Mutiny",
+        "weekendGross": "Weekend Gross: $415,602",
+        "studio": "Punch Palace Productions",
+        "lastWeek": null,
+        "artwork": "https://image.tmdb.org/t/p/w500/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg"
+      },
+      {
+        "rank": 3,
         "id": "Toy Story 5",
         "title": "Toy Story 5",
         "weekendGross": "Weekend Gross: $256,000",
@@ -67,7 +76,7 @@
         "artwork": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": "Moana",
         "title": "Moana",
         "weekendGross": "Weekend Gross: $214,000",
@@ -76,13 +85,13 @@
         "artwork": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg"
       },
       {
-        "rank": 4,
-        "id": "The Devil Wears Prada 2",
-        "title": "The Devil Wears Prada 2",
-        "weekendGross": "Weekend Gross: $1,000",
-        "studio": "20th Century Studios",
-        "lastWeek": null,
-        "artwork": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg"
+        "rank": 5,
+        "id": "The Invite",
+        "title": "The Invite",
+        "weekendGross": "Weekend Gross: $132,370",
+        "studio": "Annapurna Pictures",
+        "lastWeek": 3,
+        "artwork": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg"
       }
     ]
   }
