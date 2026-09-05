@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-04T12:32:54.595Z",
+  "updated": "2026-09-05T11:41:20.234Z",
   "music": {
-    "weekLabel": "Sep 4, 2026",
+    "weekLabel": "Sep 5, 2026",
     "items": [
       {
         "rank": 1,
@@ -13,6 +13,14 @@
       },
       {
         "rank": 2,
+        "id": "6779987091",
+        "title": "SUPERSTAR",
+        "subtitle": "Roxy Dekker",
+        "lastWeek": null,
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/b5/fc/60b5fcda-f90b-1020-dd86-b35c8fc26266/1200214322137.jpg/500x500bb.jpg"
+      },
+      {
+        "rank": 3,
         "id": "6763656876",
         "title": "hate that i made you love me",
         "subtitle": "Ariana Grande",
@@ -20,7 +28,7 @@
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/500x500bb.jpg"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": "1889992115",
         "title": "stupid song",
         "subtitle": "Olivia Rodrigo",
@@ -28,25 +36,17 @@
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/500x500bb.jpg"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": "1889992123",
         "title": "the cure",
         "subtitle": "Olivia Rodrigo",
         "lastWeek": 4,
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/500x500bb.jpg"
-      },
-      {
-        "rank": 5,
-        "id": "6769552411",
-        "title": "Great Expectation",
-        "subtitle": "SIENNA SPIRO",
-        "lastWeek": 5,
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/e5/61/f4e561f5-3e73-68c7-7ca4-295ac5a063ed/26UMGIM51351.rgb.jpg/500x500bb.jpg"
       }
     ]
   },
   "movies": {
-    "weekLabel": "Sep 4, 2026",
+    "weekLabel": "Sep 5, 2026",
     "items": [
       {
         "rank": 1,
@@ -73,7 +73,7 @@
         "weekendGross": "Weekend Gross: $153,000",
         "studio": "Pixar",
         "lastWeek": 3,
-        "artwork": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
+        "artwork": "https://image.tmdb.org/t/p/w500/9VWplgfRcYkUao9QGQXUP3rWQK7.jpg"
       },
       {
         "rank": 4,
