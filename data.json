@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-13T13:08:43.663Z",
+  "updated": "2026-09-14T14:47:06.562Z",
   "music": {
-    "weekLabel": "Sep 13, 2026",
+    "weekLabel": "Sep 14, 2026",
     "items": [
       {
         "rank": 1,
@@ -29,69 +29,33 @@
       },
       {
         "rank": 4,
-        "id": "6779987091",
-        "title": "SUPERSTAR",
-        "subtitle": "Roxy Dekker",
+        "id": "1889992115",
+        "title": "stupid song",
+        "subtitle": "Olivia Rodrigo",
         "lastWeek": null,
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/b5/fc/60b5fcda-f90b-1020-dd86-b35c8fc26266/1200214322137.jpg/500x500bb.jpg"
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/500x500bb.jpg"
       },
       {
         "rank": 5,
-        "id": "6769070199",
-        "title": "Movin' To The Sun",
-        "subtitle": "HUGEL, Imael Angel & Ultra Naté",
+        "id": "6763656876",
+        "title": "hate that i made you love me",
+        "subtitle": "Ariana Grande",
         "lastWeek": null,
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/500x500bb.jpg"
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/500x500bb.jpg"
       }
     ]
   },
   "movies": {
-    "weekLabel": "Sep 13, 2026",
+    "weekLabel": "Sep 14, 2026",
     "items": [
       {
         "rank": 1,
-        "id": "The Odyssey",
-        "title": "The Odyssey",
-        "weekendGross": "Weekend Gross: $880,767",
-        "studio": "Universal Pictures",
+        "id": "Practical Magic 2",
+        "title": "Practical Magic 2",
+        "weekendGross": "Weekend Gross: $253,000",
+        "studio": "Di Novi Pictures",
         "lastWeek": null,
-        "artwork": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
-      },
-      {
-        "rank": 2,
-        "id": "Mutiny",
-        "title": "Mutiny",
-        "weekendGross": "Weekend Gross: $148,500",
-        "studio": "Punch Palace Productions",
-        "lastWeek": 2,
-        "artwork": "https://image.tmdb.org/t/p/w500/pu2VxGlpGwffOx292w18b1tv96j.jpg"
-      },
-      {
-        "rank": 3,
-        "id": "The Dog Stars",
-        "title": "The Dog Stars",
-        "weekendGross": "Weekend Gross: $128,000",
-        "studio": "20th Century Studios",
-        "lastWeek": 1,
-        "artwork": "https://image.tmdb.org/t/p/w500/A7i16oDi03qrKep5pBfuTWNUTb.jpg"
-      },
-      {
-        "rank": 4,
-        "id": "Minions & Monsters",
-        "title": "Minions & Monsters",
-        "weekendGross": "Weekend Gross: $86,734",
-        "studio": "Universal Pictures",
-        "lastWeek": null,
-        "artwork": "https://image.tmdb.org/t/p/w500/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg"
-      },
-      {
-        "rank": 5,
-        "id": "The Invite",
-        "title": "The Invite",
-        "weekendGross": "Weekend Gross: $80,467",
-        "studio": "Annapurna Pictures",
-        "lastWeek": 5,
-        "artwork": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg"
+        "artwork": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg"
       }
     ]
   }
