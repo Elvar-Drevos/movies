@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-17T13:05:56.742Z",
+  "updated": "2026-09-18T12:45:36.883Z",
   "music": {
-    "weekLabel": "Sep 17, 2026",
+    "weekLabel": "Sep 18, 2026",
     "items": [
       {
         "rank": 1,
@@ -21,14 +21,6 @@
       },
       {
         "rank": 3,
-        "id": "1889992115",
-        "title": "stupid song",
-        "subtitle": "Olivia Rodrigo",
-        "lastWeek": null,
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/500x500bb.jpg"
-      },
-      {
-        "rank": 4,
         "id": "1889992123",
         "title": "the cure",
         "subtitle": "Olivia Rodrigo",
@@ -36,17 +28,25 @@
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/500x500bb.jpg"
       },
       {
+        "rank": 4,
+        "id": "1889992115",
+        "title": "stupid song",
+        "subtitle": "Olivia Rodrigo",
+        "lastWeek": 3,
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/500x500bb.jpg"
+      },
+      {
         "rank": 5,
         "id": "1443115469",
         "title": "So Incredible",
         "subtitle": "Ilse DeLange",
-        "lastWeek": 3,
+        "lastWeek": 5,
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/8c/d8/c9/8cd8c978-966d-84eb-1c3f-4f9964d0dfcc/00602517881204.rgb.jpg/100x99bb.jpg"
       }
     ]
   },
   "movies": {
-    "weekLabel": "Sep 17, 2026",
+    "weekLabel": "Sep 18, 2026",
     "items": [
       {
         "rank": 1,
@@ -77,21 +77,21 @@
       },
       {
         "rank": 4,
+        "id": "The Invite",
+        "title": "The Invite",
+        "weekendGross": "Weekend Gross: $68,779",
+        "studio": "Annapurna Pictures",
+        "lastWeek": 5,
+        "artwork": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg"
+      },
+      {
+        "rank": 5,
         "id": "The Dog Stars",
         "title": "The Dog Stars",
         "weekendGross": "Weekend Gross: $55,000",
         "studio": "20th Century Studios",
         "lastWeek": 3,
         "artwork": "https://image.tmdb.org/t/p/w500/A7i16oDi03qrKep5pBfuTWNUTb.jpg"
-      },
-      {
-        "rank": 5,
-        "id": "Moana",
-        "title": "Moana",
-        "weekendGross": "Weekend Gross: $53,000",
-        "studio": "Walt Disney Pictures",
-        "lastWeek": 10,
-        "artwork": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg"
       }
     ]
   }
