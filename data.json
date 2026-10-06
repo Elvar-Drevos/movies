@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-05T16:51:48.924Z",
+  "updated": "2026-10-06T14:47:20.511Z",
   "music": {
-    "weekLabel": "Oct 5, 2026",
+    "weekLabel": "Oct 6, 2026",
     "items": [
       {
         "rank": 1,
@@ -37,16 +37,16 @@
       },
       {
         "rank": 5,
-        "id": "6792884088",
-        "title": "Nicole Kidman",
-        "subtitle": "ADÉLA",
+        "id": "1889992123",
+        "title": "the cure",
+        "subtitle": "Olivia Rodrigo",
         "lastWeek": null,
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/500x500bb.jpg"
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/500x500bb.jpg"
       }
     ]
   },
   "movies": {
-    "weekLabel": "Oct 5, 2026",
+    "weekLabel": "Oct 6, 2026",
     "items": [
       {
         "rank": 1,
@@ -56,6 +56,42 @@
         "studio": "Eat the Cat",
         "lastWeek": null,
         "artwork": "https://image.tmdb.org/t/p/w500/97y0RdzRIeZ2j6se98hRQpxz3eR.jpg"
+      },
+      {
+        "rank": 2,
+        "id": "Avengers: Endgame2026 Re-release",
+        "title": "Avengers: Endgame2026 Re-release",
+        "weekendGross": "Weekend Gross: $161,000",
+        "studio": "Studio unknown",
+        "lastWeek": 1,
+        "artwork": ""
+      },
+      {
+        "rank": 3,
+        "id": "Toy Story 5",
+        "title": "Toy Story 5",
+        "weekendGross": "Weekend Gross: $20,000",
+        "studio": "Pixar",
+        "lastWeek": 8,
+        "artwork": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
+      },
+      {
+        "rank": 4,
+        "id": "Moana",
+        "title": "Moana",
+        "weekendGross": "Weekend Gross: $7,000",
+        "studio": "Walt Disney Pictures",
+        "lastWeek": 14,
+        "artwork": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg"
+      },
+      {
+        "rank": 5,
+        "id": "The Devil Wears Prada 2",
+        "title": "The Devil Wears Prada 2",
+        "weekendGross": "Weekend Gross: $5,000",
+        "studio": "20th Century Studios",
+        "lastWeek": null,
+        "artwork": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg"
       }
     ]
   }
