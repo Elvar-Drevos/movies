@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-22T13:31:56.979Z",
+  "updated": "2026-10-24T12:28:44.409Z",
   "music": {
-    "weekLabel": "Oct 22, 2026",
+    "weekLabel": "Oct 24, 2026",
     "items": [
       {
         "rank": 1,
@@ -13,6 +13,14 @@
       },
       {
         "rank": 2,
+        "id": "6809508003",
+        "title": "100 Tranen",
+        "subtitle": "Qlas, Antoon & Boef",
+        "lastWeek": 5,
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/3f/cd/4b3fcdac-9d19-9d7f-27fc-37b29430fb46/196874760628.jpg/500x500bb.jpg"
+      },
+      {
+        "rank": 3,
         "id": "6817013133",
         "title": "Schijn je licht op mij",
         "subtitle": "Ronnie Flex & ADF Samski",
@@ -20,7 +28,7 @@
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/5a/d4/cd5ad4a4-ee05-8631-6e1d-4cc404ce8e38/196874834886.jpg/500x500bb.jpg"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": "6807192825",
         "title": "Nicole Kidman",
         "subtitle": "ADÉLA",
@@ -28,25 +36,17 @@
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/c6/9a/53c69a6a-d1c4-0983-a20c-a67dceae554f/26UMGIM82372.rgb.jpg/500x500bb.jpg"
       },
       {
-        "rank": 4,
-        "id": "6769552411",
-        "title": "Great Expectation",
-        "subtitle": "SIENNA SPIRO",
-        "lastWeek": 4,
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/e5/61/f4e561f5-3e73-68c7-7ca4-295ac5a063ed/26UMGIM51351.rgb.jpg/500x500bb.jpg"
-      },
-      {
         "rank": 5,
-        "id": "6809508003",
-        "title": "100 Tranen",
-        "subtitle": "Qlas, Antoon & Boef",
-        "lastWeek": 5,
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/3f/cd/4b3fcdac-9d19-9d7f-27fc-37b29430fb46/196874760628.jpg/500x500bb.jpg"
+        "id": "1889992123",
+        "title": "the cure",
+        "subtitle": "Olivia Rodrigo",
+        "lastWeek": null,
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/500x500bb.jpg"
       }
     ]
   },
   "movies": {
-    "weekLabel": "Oct 22, 2026",
+    "weekLabel": "Oct 24, 2026",
     "items": [
       {
         "rank": 1,
