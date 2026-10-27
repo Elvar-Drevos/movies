@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-26T14:54:03.288Z",
+  "updated": "2026-10-27T14:03:24.293Z",
   "music": {
-    "weekLabel": "Oct 26, 2026",
+    "weekLabel": "Oct 27, 2026",
     "items": [
       {
         "rank": 1,
@@ -24,7 +24,7 @@
         "id": "6794168373",
         "title": "Babydoll",
         "subtitle": "Jamie Miller",
-        "lastWeek": 5,
+        "lastWeek": 3,
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/15/d2/e615d28f-70b5-e43a-b3c8-460dca39c9e5/26UMGIM97516.rgb.jpg/500x500bb.jpg"
       },
       {
@@ -37,61 +37,61 @@
       },
       {
         "rank": 5,
-        "id": "6817013133",
-        "title": "Schijn je licht op mij",
-        "subtitle": "Ronnie Flex & ADF Samski",
-        "lastWeek": 3,
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/5a/d4/cd5ad4a4-ee05-8631-6e1d-4cc404ce8e38/196874834886.jpg/500x500bb.jpg"
+        "id": "6769552411",
+        "title": "Great Expectation",
+        "subtitle": "SIENNA SPIRO",
+        "lastWeek": null,
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/e5/61/f4e561f5-3e73-68c7-7ca4-295ac5a063ed/26UMGIM51351.rgb.jpg/500x500bb.jpg"
       }
     ]
   },
   "movies": {
-    "weekLabel": "Oct 26, 2026",
+    "weekLabel": "Oct 27, 2026",
     "items": [
       {
         "rank": 1,
-        "id": "Verity",
-        "title": "Verity",
-        "weekendGross": "Weekend Gross: $387,681",
-        "studio": "Eat the Cat",
-        "lastWeek": 1,
-        "artwork": "https://image.tmdb.org/t/p/w500/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg"
+        "id": "Sense and Sensibility",
+        "title": "Sense and Sensibility",
+        "weekendGross": "Weekend Gross: $215,311",
+        "studio": "Focus Features",
+        "lastWeek": 3,
+        "artwork": "https://image.tmdb.org/t/p/w500/5bmH9lyNVEW6DXBf4rYx9Os7Fuo.jpg"
       },
       {
         "rank": 2,
-        "id": "Street Fighter",
-        "title": "Street Fighter",
-        "weekendGross": "Weekend Gross: $314,000",
-        "studio": "Capcom",
-        "lastWeek": null,
-        "artwork": "https://image.tmdb.org/t/p/w500/ccxdepKqORLwccbzvO4eAGkN0IC.jpg"
+        "id": "Forgotten Island",
+        "title": "Forgotten Island",
+        "weekendGross": "Weekend Gross: $177,219",
+        "studio": "DreamWorks Animation",
+        "lastWeek": 7,
+        "artwork": "https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg"
       },
       {
         "rank": 3,
-        "id": "Sense and Sensibility",
-        "title": "Sense and Sensibility",
-        "weekendGross": "Weekend Gross: $285,583",
-        "studio": "Focus Features",
-        "lastWeek": null,
-        "artwork": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg"
+        "id": "The Odyssey",
+        "title": "The Odyssey",
+        "weekendGross": "Weekend Gross: $173,404",
+        "studio": "Universal Pictures",
+        "lastWeek": 6,
+        "artwork": "https://image.tmdb.org/t/p/w500/krVa7rKCQb4OBfsr2LTJv4rTz5q.jpg"
       },
       {
         "rank": 4,
-        "id": "Heart of the Beast",
-        "title": "Heart of the Beast",
-        "weekendGross": "Weekend Gross: $281,000",
-        "studio": "Paramount Pictures",
-        "lastWeek": null,
-        "artwork": "https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg"
+        "id": "Whalefall",
+        "title": "Whalefall",
+        "weekendGross": "Weekend Gross: $114,714",
+        "studio": "Imagine Entertainment",
+        "lastWeek": 5,
+        "artwork": "https://image.tmdb.org/t/p/w500/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg"
       },
       {
         "rank": 5,
-        "id": "Whalefall",
-        "title": "Whalefall",
-        "weekendGross": "Weekend Gross: $216,664",
-        "studio": "Imagine Entertainment",
-        "lastWeek": null,
-        "artwork": "https://image.tmdb.org/t/p/w500/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg"
+        "id": "Minions & Monsters",
+        "title": "Minions & Monsters",
+        "weekendGross": "Weekend Gross: $99,719",
+        "studio": "Universal Pictures",
+        "lastWeek": 8,
+        "artwork": "https://image.tmdb.org/t/p/w500/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg"
       }
     ]
   }
